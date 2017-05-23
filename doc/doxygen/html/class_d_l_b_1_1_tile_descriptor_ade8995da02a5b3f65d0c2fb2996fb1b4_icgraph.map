@@ -1,0 +1,18 @@
+<map id="DLB::TileDescriptor::getSize" name="DLB::TileDescriptor::getSize">
+<area shape="rect" id="node2" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a09f7e1643d2f29248fd35c62f55d53c7" title="Print object metadata for debug purpose. " alt="" coords="191,5,392,47"/>
+<area shape="rect" id="node4" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a2e2e2994c87fd3c34c8748e28dc8c7c6" title="Returns length of halo zones. " alt="" coords="191,71,392,112"/>
+<area shape="rect" id="node9" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#ac4116bcc844074b0932315e09d29d542" title="[brief description] " alt="" coords="191,136,392,177"/>
+<area shape="rect" id="node11" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#abf91999e6c91efec80a1003a3a155d2e" title="GIDs assigned to block t. " alt="" coords="191,201,392,243"/>
+<area shape="rect" id="node12" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#affea5f71b0568744e34744de23e43ea5" title="Returns dimensions of current block. " alt="" coords="191,267,392,308"/>
+<area shape="rect" id="node13" href="$class_d_l_b_1_1_load_balancer.html#accb32b6fbb3e4f5c319d644a43ef3506" title="Compute new decomposition based on actual state and measured performance data. " alt="" coords="220,332,363,373"/>
+<area shape="rect" id="node15" href="$namespace_d_l_b.html#a9fe1818e957f5cdcf635d2be0845362e" title="Overloaded equality/inequality operators. " alt="" coords="232,398,351,425"/>
+<area shape="rect" id="node16" href="$class_d_l_b_1_1_tile_descriptor.html#a93064aed49312c0521edeecf6b30760e" title="Computes shared edge if there is any. " alt="" coords="223,449,360,491"/>
+<area shape="rect" id="node17" href="$class_d_l_b_1_1_tile_descriptor.html#a02208f7d3a3a859d73d3d93987384816" title="Computes halo offset for given tile. " alt="" coords="223,515,360,556"/>
+<area shape="rect" id="node3" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a81cb878a273e7bb76e58ce000fdd6a31" title="Position of current block in range &lt;0, blocks_in_row&gt;, &lt;0, blocks_in_col&gt; " alt="" coords="440,5,641,47"/>
+<area shape="rect" id="node5" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a868369eab0fa748594938473ff932a35" title="Returns stored MPI rank. " alt="" coords="440,71,641,112"/>
+<area shape="rect" id="node6" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#ab28edf493fc0255b41b46cb5da019f60" title="Extract data object from actual block &#160;Reads data from oldTemp array. " alt="" coords="689,37,891,79"/>
+<area shape="rect" id="node8" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a6a43a1d219bd6a322803847c34a65c8d" title="Unpack data from Zoltan to block &#160;Extracts data into allocated newblock. " alt="" coords="689,103,891,144"/>
+<area shape="rect" id="node7" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a866df28cc3bbbc07eab8f1817e1709d8" title="Initialize Zoltan related params etc. " alt="" coords="939,71,1140,112"/>
+<area shape="rect" id="node10" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a7751d0530115fa50283dbcdb6484a01f" title="Custom pointer swapping. " alt="" coords="440,136,641,177"/>
+<area shape="rect" id="node14" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#ae843fa8eb31b8cc979b319f007284f44" title="Dynamic load balance method. " alt="" coords="440,332,641,373"/>
+</map>

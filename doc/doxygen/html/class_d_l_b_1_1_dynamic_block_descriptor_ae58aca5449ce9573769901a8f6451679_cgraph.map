@@ -1,0 +1,14 @@
+<map id="DLB::DynamicBlockDescriptor::collectData" name="DLB::DynamicBlockDescriptor::collectData">
+<area shape="rect" id="node2" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a7961ac9776f11805f9cf7a912c1c5414" title="Computes assigned objects to all tiles defined by param. " alt="" coords="255,64,456,105"/>
+<area shape="rect" id="node7" href="$class_d_l_b_1_1_load_balancer.html#a1cccdbf5755e08dab42b80f94b5b5ab8" title="Migrate data between CPU using Zoltan_Migrate. " alt="" coords="284,148,427,189"/>
+<area shape="rect" id="node9" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a4fa4be69b30c68c951e07e69c136dbab" title="Move objects from actual block to new block arrays. " alt="" coords="255,223,456,264"/>
+<area shape="rect" id="node13" href="$class_d_l_b_1_1_load_balancer.html#a32bcf192afbe8f2dbce9162c470b67fe" title="Deallocates arrays with migration params. " alt="" coords="284,288,427,329"/>
+<area shape="rect" id="node3" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#aefeee58458dc79b4ce345d1b25b64701" title="GIDs assigned to current block. " alt="" coords="504,59,705,100"/>
+<area shape="rect" id="node4" href="$class_d_l_b_1_1_tile_descriptor.html#a8a61f7a788d1e8df2d574effaaca8e0e" title="Tile position getter. " alt="" coords="785,147,923,188"/>
+<area shape="rect" id="node5" href="$class_d_l_b_1_1_tile_descriptor.html#ade8995da02a5b3f65d0c2fb2996fb1b4" title="Tile size getter. " alt="" coords="785,5,923,47"/>
+<area shape="rect" id="node6" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a739cc34dc6127cea87e35423d653f876" title="Mapping from Zoltan object position to object GID. " alt="" coords="753,71,955,112"/>
+<area shape="rect" id="node8" href="$namespace_d_l_b.html#a0cb32a0df5dc9696e15592df4a1f0656" title="DLB::MPI_assert" alt="" coords="543,125,666,151"/>
+<area shape="rect" id="node10" href="$class_d_l_b_1_1_tile_descriptor.html#af15e3ff077ff139b58db16eed4da6143" title="Returns tile dimensions extended by haloSize. " alt="" coords="536,227,673,268"/>
+<area shape="rect" id="node11" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a1229d307acf2c67ce5918f1dcaa510fb" title="Inversion of getGIDByCoords() " alt="" coords="504,292,705,333"/>
+<area shape="rect" id="node12" href="$namespace_d_l_b.html#a11482bd6aa2eb9c516a447ff6a1d0003" title="Maps given coordinates to array index respection halo zone size. " alt="" coords="565,358,645,385"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="DLB::DynamicBlockDescriptor::swap" name="DLB::DynamicBlockDescriptor::swap">
+<area shape="rect" id="node2" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#ae613164b22de792cf3b0fb5d49ba7a18" title="Metadata update. " alt="" coords="255,35,456,76"/>
+<area shape="rect" id="node3" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#ac4116bcc844074b0932315e09d29d542" title="[brief description] " alt="" coords="255,100,456,141"/>
+<area shape="rect" id="node8" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a654019ba550c2d164636280923f4d8da" title="Calculates MPI ranks, which belong to neighbor blocks. " alt="" coords="255,165,456,207"/>
+<area shape="rect" id="node9" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a147993e17620a2d494a9423b90b6f493" title="Creates instances of MPI datatypes describing block. " alt="" coords="255,231,456,272"/>
+<area shape="rect" id="node10" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#abdde8561c8ec97d313c128c6deb20d09" title="Computes displacements vector for scattering. " alt="" coords="255,296,456,337"/>
+<area shape="rect" id="node11" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a8dcdbd2344c498dd5a4bbc62f45fc613" title="Computes displacement vector for scattering. " alt="" coords="255,361,456,403"/>
+<area shape="rect" id="node12" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a7e2e3fa7281d01da914ac35e79491339" title="Returns offset of block by given process rank. " alt="" coords="255,427,456,468"/>
+<area shape="rect" id="node4" href="$class_d_l_b_1_1_tile_descriptor.html#a8a61f7a788d1e8df2d574effaaca8e0e" title="Tile position getter. " alt="" coords="504,5,641,47"/>
+<area shape="rect" id="node5" href="$class_d_l_b_1_1_tile_descriptor.html#ade8995da02a5b3f65d0c2fb2996fb1b4" title="Tile size getter. " alt="" coords="504,71,641,112"/>
+<area shape="rect" id="node6" href="$namespace_d_l_b.html#a11482bd6aa2eb9c516a447ff6a1d0003" title="Maps given coordinates to array index respection halo zone size. " alt="" coords="533,137,613,163"/>
+<area shape="rect" id="node7" href="$class_d_l_b_1_1_tile_descriptor.html#af15e3ff077ff139b58db16eed4da6143" title="Returns tile dimensions extended by haloSize. " alt="" coords="504,188,641,229"/>
+</map>

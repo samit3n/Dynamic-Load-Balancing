@@ -1,0 +1,24 @@
+<map id="DLB::DynamicBlockDescriptor::loadBalance" name="DLB::DynamicBlockDescriptor::loadBalance">
+<area shape="rect" id="node2" href="$namespace_d_l_b.html#a0cb32a0df5dc9696e15592df4a1f0656" title="DLB::MPI_assert" alt="" coords="793,38,915,65"/>
+<area shape="rect" id="node3" href="$class_d_l_b_1_1_load_balancer.html#a99b492fd477b1e6bc201b045eab0b442" title="Detects possible imbalance. " alt="" coords="284,527,427,568"/>
+<area shape="rect" id="node4" href="$class_d_l_b_1_1_load_balancer.html#ac948a217977895f0ed638291956739b7" title="Generate regular mesh. " alt="" coords="284,592,427,634"/>
+<area shape="rect" id="node5" href="$class_d_l_b_1_1_load_balancer.html#accb32b6fbb3e4f5c319d644a43ef3506" title="Compute new decomposition based on actual state and measured performance data. " alt="" coords="783,403,925,444"/>
+<area shape="rect" id="node8" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#aefeee58458dc79b4ce345d1b25b64701" title="GIDs assigned to current block. " alt="" coords="753,468,955,510"/>
+<area shape="rect" id="node10" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a228697fe6c07142d4884e832400d6cfa" title="Compares old and new decomposition and setes appropriate migration arrays &#45; import/export GIDs etc..." alt="" coords="255,410,456,451"/>
+<area shape="rect" id="node12" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a53259fb2def16d5340ebc9bcf83f51fb" title="Data migration function. " alt="" coords="255,227,456,268"/>
+<area shape="rect" id="node20" href="$class_d_l_b_1_1_topology_descriptor.html#a85142567847f7ae7c97394bb152732dc" title="Set tiles. " alt="" coords="271,658,440,699"/>
+<area shape="rect" id="node21" href="$class_d_l_b_1_1_topology_descriptor.html#a77db98d637962a47093fee6fc519c5a8" title="Updates all topology related metadata. " alt="" coords="271,723,440,764"/>
+<area shape="rect" id="node22" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#ae57412d249aa5a7ff2a928e6be60a03b" title="Returns BlockData pointer. " alt="" coords="255,788,456,830"/>
+<area shape="rect" id="node23" href="$class_d_l_b_1_1_topology_descriptor.html#abe4630d8c88f1542e5931f723bac60ed" title="Creates string representation of topology. " alt="" coords="520,31,689,72"/>
+<area shape="rect" id="node6" href="$class_d_l_b_1_1_tile_descriptor.html#a8a61f7a788d1e8df2d574effaaca8e0e" title="Tile position getter. " alt="" coords="1035,374,1172,415"/>
+<area shape="rect" id="node7" href="$class_d_l_b_1_1_tile_descriptor.html#ade8995da02a5b3f65d0c2fb2996fb1b4" title="Tile size getter. " alt="" coords="1035,439,1172,480"/>
+<area shape="rect" id="node9" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a739cc34dc6127cea87e35423d653f876" title="Mapping from Zoltan object position to object GID. " alt="" coords="1003,504,1204,546"/>
+<area shape="rect" id="node11" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a7961ac9776f11805f9cf7a912c1c5414" title="Computes assigned objects to all tiles defined by param. " alt="" coords="504,410,705,451"/>
+<area shape="rect" id="node13" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a44f57b4bff0dcd92438f1f794f4aa626" title="Allocate necessary temporary arrays before data migration. " alt="" coords="504,162,705,203"/>
+<area shape="rect" id="node15" href="$class_d_l_b_1_1_load_balancer.html#a1cccdbf5755e08dab42b80f94b5b5ab8" title="Migrate data between CPU using Zoltan_Migrate. " alt="" coords="533,96,676,138"/>
+<area shape="rect" id="node16" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a4fa4be69b30c68c951e07e69c136dbab" title="Move objects from actual block to new block arrays. " alt="" coords="504,292,705,334"/>
+<area shape="rect" id="node19" href="$class_d_l_b_1_1_load_balancer.html#a32bcf192afbe8f2dbce9162c470b67fe" title="Deallocates arrays with migration params. " alt="" coords="533,227,676,268"/>
+<area shape="rect" id="node14" href="$namespace_d_l_b.html#a11482bd6aa2eb9c516a447ff6a1d0003" title="Maps given coordinates to array index respection halo zone size. " alt="" coords="814,169,894,196"/>
+<area shape="rect" id="node17" href="$class_d_l_b_1_1_tile_descriptor.html#af15e3ff077ff139b58db16eed4da6143" title="Returns tile dimensions extended by haloSize. " alt="" coords="785,220,923,262"/>
+<area shape="rect" id="node18" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a1229d307acf2c67ce5918f1dcaa510fb" title="Inversion of getGIDByCoords() " alt="" coords="753,286,955,327"/>
+</map>

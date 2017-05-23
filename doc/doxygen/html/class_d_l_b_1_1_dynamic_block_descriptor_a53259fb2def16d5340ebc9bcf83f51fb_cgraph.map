@@ -1,0 +1,11 @@
+<map id="DLB::DynamicBlockDescriptor::migrate" name="DLB::DynamicBlockDescriptor::migrate">
+<area shape="rect" id="node2" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a44f57b4bff0dcd92438f1f794f4aa626" title="Allocate necessary temporary arrays before data migration. " alt="" coords="255,71,456,112"/>
+<area shape="rect" id="node4" href="$class_d_l_b_1_1_load_balancer.html#a1cccdbf5755e08dab42b80f94b5b5ab8" title="Migrate data between CPU using Zoltan_Migrate. " alt="" coords="284,5,427,47"/>
+<area shape="rect" id="node6" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a4fa4be69b30c68c951e07e69c136dbab" title="Move objects from actual block to new block arrays. " alt="" coords="255,136,456,177"/>
+<area shape="rect" id="node10" href="$class_d_l_b_1_1_load_balancer.html#a32bcf192afbe8f2dbce9162c470b67fe" title="Deallocates arrays with migration params. " alt="" coords="284,201,427,243"/>
+<area shape="rect" id="node3" href="$namespace_d_l_b.html#a11482bd6aa2eb9c516a447ff6a1d0003" title="Maps given coordinates to array index respection halo zone size. " alt="" coords="565,78,645,105"/>
+<area shape="rect" id="node5" href="$namespace_d_l_b.html#a0cb32a0df5dc9696e15592df4a1f0656" title="DLB::MPI_assert" alt="" coords="543,13,666,39"/>
+<area shape="rect" id="node7" href="$class_d_l_b_1_1_tile_descriptor.html#af15e3ff077ff139b58db16eed4da6143" title="Returns tile dimensions extended by haloSize. " alt="" coords="536,260,673,301"/>
+<area shape="rect" id="node8" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a1229d307acf2c67ce5918f1dcaa510fb" title="Inversion of getGIDByCoords() " alt="" coords="504,129,705,171"/>
+<area shape="rect" id="node9" href="$class_d_l_b_1_1_tile_descriptor.html#a8a61f7a788d1e8df2d574effaaca8e0e" title="Tile position getter. " alt="" coords="536,195,673,236"/>
+</map>

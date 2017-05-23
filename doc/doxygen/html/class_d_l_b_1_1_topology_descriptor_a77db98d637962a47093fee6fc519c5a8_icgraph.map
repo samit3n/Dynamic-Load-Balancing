@@ -1,0 +1,4 @@
+<map id="DLB::TopologyDescriptor::updateTopology" name="DLB::TopologyDescriptor::updateTopology">
+<area shape="rect" id="node2" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a0a0aec521417aa0f4774edb38b23495e" title="Initial static load balance. " alt="" coords="223,5,424,47"/>
+<area shape="rect" id="node3" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#ae843fa8eb31b8cc979b319f007284f44" title="Dynamic load balance method. " alt="" coords="223,71,424,112"/>
+</map>

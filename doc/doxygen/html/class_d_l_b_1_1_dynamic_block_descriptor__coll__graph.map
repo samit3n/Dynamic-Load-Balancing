@@ -1,0 +1,9 @@
+<map id="DLB::DynamicBlockDescriptor" name="DLB::DynamicBlockDescriptor">
+<area shape="rect" id="node2" href="$class_d_l_b_1_1_temp_block.html" title="Class describing temporary block and related memory during data migration. " alt="" coords="609,355,731,381"/>
+<area shape="rect" id="node3" href="$class_d_l_b_1_1_tile_descriptor.html" title="Describes one rectangular tile and its position in topology. " alt="" coords="235,355,373,381"/>
+<area shape="rect" id="node8" href="$class_d_l_b_1_1_topology_descriptor.html" title="Describes topology of problem domain, holds metadata of all domain blocks in the problem domain..." alt="" coords="585,247,755,273"/>
+<area shape="rect" id="node4" href="$class_d_l_b_1_1_dims.html" title="Simple class holding dimensions (unsigned int) " alt="" coords="5,405,92,432"/>
+<area shape="rect" id="node11" href="$class_d_l_b_1_1_load_balancer.html" title="Class providing main load balancing routines. " alt="" coords="427,456,561,483"/>
+<area shape="rect" id="node5" href="$class_d_l_b_1_1_block_data.html" title="Class holding data related to actual block. " alt="" coords="611,59,729,85"/>
+<area shape="rect" id="node9" href="$struct_d_l_b_1_1tmsg.html" title="DLB::tmsg" alt="" coords="261,221,347,248"/>
+</map>

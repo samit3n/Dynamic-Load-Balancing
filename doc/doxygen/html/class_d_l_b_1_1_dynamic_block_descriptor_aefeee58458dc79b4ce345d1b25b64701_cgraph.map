@@ -1,0 +1,5 @@
+<map id="DLB::DynamicBlockDescriptor::getAssignGIDs" name="DLB::DynamicBlockDescriptor::getAssignGIDs">
+<area shape="rect" id="node2" href="$class_d_l_b_1_1_tile_descriptor.html#a8a61f7a788d1e8df2d574effaaca8e0e" title="Tile position getter. " alt="" coords="287,5,424,47"/>
+<area shape="rect" id="node3" href="$class_d_l_b_1_1_tile_descriptor.html#ade8995da02a5b3f65d0c2fb2996fb1b4" title="Tile size getter. " alt="" coords="287,71,424,112"/>
+<area shape="rect" id="node4" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a739cc34dc6127cea87e35423d653f876" title="Mapping from Zoltan object position to object GID. " alt="" coords="255,136,456,177"/>
+</map>

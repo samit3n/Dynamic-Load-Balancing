@@ -1,0 +1,3 @@
+These are some basic toy problems related to MPI communications
+especially buffered/unbuffered behavior and synchronization.
+

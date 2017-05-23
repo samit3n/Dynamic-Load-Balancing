@@ -1,0 +1,8 @@
+<map id="TLogger::SetLevel" name="TLogger::SetLevel">
+<area shape="rect" id="node2" href="$class_t_logger.html#a9c9e8337ffb9a89f59c8faf1a5104d12" title="Log desired activity for a given log level, version with string format. " alt="" coords="181,107,280,133"/>
+<area shape="rect" id="node3" href="$class_t_logger.html#a79a048405d912a023367902518b32e23" title="C++&#45;11 replacement for sprintf that works with std::string instead of char *. " alt="" coords="336,5,507,32"/>
+<area shape="rect" id="node4" href="$class_t_logger.html#a87186902d0987eb4e4ddb927b878fa28" title="Log an error. " alt="" coords="369,56,474,83"/>
+<area shape="rect" id="node5" href="$class_t_logger.html#a5770ff74b5c1349354ade8cc69166dd3" title="Log an error and terminate the execution. " alt="" coords="328,107,515,133"/>
+<area shape="rect" id="node6" href="$class_t_logger.html#a0e3f98948b46f79d8eb0b8964cf32b1c" title="Flush output messages. " alt="" coords="367,157,476,184"/>
+<area shape="rect" id="node7" href="$class_t_logger.html#ab9ed3cb106abcf91c10ae03cecfa5dca" title="Wrap the line based on logger conventions. " alt="" coords="335,208,508,235"/>
+</map>

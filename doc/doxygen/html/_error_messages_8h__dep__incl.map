@@ -1,0 +1,13 @@
+<map id="/home/samiten/DIP_release/src/Sources/DLB/Logger/ErrorMessages.h" name="/home/samiten/DIP_release/src/Sources/DLB/Logger/ErrorMessages.h">
+<area shape="rect" id="node2" href="$_logger_8h.html" title="The header file containing a class responsible for printing out info and error messages (stdout..." alt="" coords="543,109,727,165"/>
+<area shape="rect" id="node3" href="$_dynamic_block_descriptor_8h_source.html" title="/home/samiten/DIP_release\l/src/Sources/DLB/DynamicBlockDescriptor.h" alt="" coords="12,407,299,448"/>
+<area shape="rect" id="node5" href="$dlb__heat_8cpp.html" title="Parallel heat distribution simulation model with dynamic load balancing (aka dlb) ability..." alt="" coords="517,496,701,537"/>
+<area shape="rect" id="node6" href="$_logger-testbench_8cpp_source.html" title="/home/samiten/DIP_release\l/src/Sources/DLB/Logger\l/Logger&#45;testbench.cpp" alt="" coords="759,213,943,269"/>
+<area shape="rect" id="node7" href="$_logger_8cpp.html" title="The implementation file containing a class responsible for printing out info and error messages (stdo..." alt="" coords="967,213,1151,269"/>
+<area shape="rect" id="node8" href="$_perf_measure_8h_source.html" title="/home/samiten/DIP_release\l/src/Sources/DLB/PerfMeasure.h" alt="" coords="123,221,337,262"/>
+<area shape="rect" id="node11" href="$_topology_descriptor_8h_source.html" title="/home/samiten/DIP_release\l/src/Sources/DLB/TopologyDescriptor.h" alt="" coords="423,221,677,262"/>
+<area shape="rect" id="node4" href="$_dynamic_block_descriptor_8cpp_source.html" title="/home/samiten/DIP_release\l/src/Sources/DLB/DynamicBlockDescriptor.cpp" alt="" coords="5,496,305,537"/>
+<area shape="rect" id="node9" href="$_load_balancer_8h_source.html" title="/home/samiten/DIP_release\l/src/Sources/DLB/LoadBalancer.h" alt="" coords="120,317,340,359"/>
+<area shape="rect" id="node10" href="$_load_balancer_8cpp_source.html" title="/home/samiten/DIP_release\l/src/Sources/DLB/LoadBalancer.cpp" alt="" coords="323,407,558,448"/>
+<area shape="rect" id="node12" href="$_topology_descriptor_8cpp_source.html" title="/home/samiten/DIP_release\l/src/Sources/DLB/TopologyDescriptor.cpp" alt="" coords="416,317,684,359"/>
+</map>

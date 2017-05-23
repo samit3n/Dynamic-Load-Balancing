@@ -1,0 +1,4 @@
+<map id="ComputeHalo" name="ComputeHalo">
+<area shape="rect" id="node2" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a2420ddaf175c1332939415eb276a40bc" title="Returs size of block extended by halo borders. " alt="" coords="156,5,357,47"/>
+<area shape="rect" id="node3" href="$class_d_l_b_1_1_tile_descriptor.html#af15e3ff077ff139b58db16eed4da6143" title="Returns tile dimensions extended by haloSize. " alt="" coords="405,5,543,47"/>
+</map>

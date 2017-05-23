@@ -1,0 +1,105 @@
+#!/bin/bash
+#PBS -A OPEN-8-19
+#PBS -N DIP_DLB
+#PBS -q qprod
+#PBS -l walltime=03:00:00
+#PBS -l select=16:ncpus=16:mpiprocs=16
+
+#source ~/.bashrc
+#source ~/bin/mpath
+
+ml intel/2017.00
+ml HDF5ls
+# ml Python/3.5.2-intel-2017.00
+
+# go into the folder from which this script was started
+cd "$PBS_O_WORKDIR"
+
+# domain sizes
+declare -a sizes=(1024)
+
+# declare -a sizes=(4096 2048 1024 512 256)
+# declare -a sizes=(256 512 1024)
+
+# 1 process excluded
+declare -a processes=(16 64 128 256)
+declare -a iterations=( 20000 )
+declare -a objSize=(32)
+declare -a multipler=( )
+
+# stdout and stderr outputs
+stdoutFile="out_mpi_mult_20k_16_256_small.csv"
+stderrFile="err_mpi_mult_20k_16_256_small.txt"
+
+SRCDIR=/home/xdvora0y/DIP/src/HeatDistribution/Sources
+#SCRIPTS=/home/xdvora0y/DIP/src/HeatDistribution/Scripts
+SCRIPTS=$INDATA
+
+echo_and_run() { echo "cmd:$@" >> ${stdoutFile}; "$@" ; }
+
+mkdir -p /scratch/temp/$USER/$PBS_JOBID
+playground=/scratch/temp/$USER/$PBS_JOBID
+
+cat /dev/null > ${stdoutFile}
+# CSV output header
+# echo "MPIprocs;domainSize;nIterations;diskWriteIntensity;airflow;materialFile;balanceInfo;simulationOutputFile;simulationMode;objSize;middleColAvgTemp;totalTime;iterationTime;iteration;io;balance" > ${stdoutFile}
+
+# disk write intensity
+
+
+for procs in ${processes[*]}
+do
+  for size in ${sizes[*]} 
+  do
+    for object in ${objSize[*]}
+    do
+      for iter in ${iterations[*]}
+      do
+        for mult in ${multipler[*]}
+        do
+
+    # maxObjSize=`./objsize.py $procs $size`
+
+    # objSize=8
+    detTime=`expr $((iter / 2))`
+    diskWriteIntensity=`expr $((iter / 50))`
+
+
+    # while [ $objSize -lt $maxObjSize ];do
+      # objSize=`expr $((objSize * 2))`
+      # echo "$procs:$size:$objSize:$maxObjSize" 
+
+
+        # calculate the "appropriate" number of iterations so that
+        # the program runs long enough to measure accurate times
+        # nIterations=`expr $((50000000/$size))`
+        # nIterations=`expr $((100000000/$size))`
+        # nIterations=20000
+    
+    
+          # echo $nIterations
+    
+        # run parallel version for given domain size
+        # no I/O
+        # mpirun -np $procs ./arc_proj02  -n $nIterations -m 1 -w $diskWriteIntensity -i ../Scripts/input_data_${size}.h5 >> ${stdoutFile} 2>> ${stderrFile}
+        
+        # serial I/O
+      #echo "mpirun -np $procs ../Sources/arc_proj02 -b -n $nIterations -m 1 -w $diskWriteIntensity -s $objSize -i ../Scripts/input_data_${size}.h5 -o ${playground}/${size}x${size}_out_mpi.h5 >> ${stdoutFile} 2>> ${stderrFile}"
+        # echo "cmd: mpirun -np $procs ../../Sources/arc_proj02 -n $iter -b -X -M ${mult} -t ${detTime}  -p -m 1 -w $diskWriteIntensity -s $object -i ../input_data_${size}.h5 -o ${playground}/output_dlb_X_${size}.h5" >> ${stdoutFile}
+        echo_and_run mpirun -np $procs ${SRCDIR}/arc_proj02_ideal -b -n $iter  -p -m 1 -X -T 1.2 -M ${mult} -t ${detTime} -w $diskWriteIntensity -s $object -i ${SCRIPTS}/input_data_${size}.h5 -o ${playground}/output_dlb_X_${size}.h5 >> ${stdoutFile} 2>> ${stderrFile}
+    
+        # echo "cmd: mpirun -np $procs ../../Sources/arc_proj02 -b -n $iter -M ${mult} -p -m 1 -w $diskWriteIntensity -s $object -i ../input_data_${size}.h5 -o ${playground}/output_dlb_${size}.h5" >> ${stdoutFile}
+        echo_and_run mpirun -np $procs ${SRCDIR}/arc_proj02_ideal -b -n $iter -p -m 1 -M ${mult} -w $diskWriteIntensity -s $object -i ${SCRIPTS}/input_data_${size}.h5 -o ${playground}/output_dlb_${size}.h5 >> ${stdoutFile} 2>> ${stderrFile}    
+        # mpirun -np $procs ../Sources/arc_proj02  -b -n $nIterations -m 1 -w $diskWriteIntensity -s $objSize -i ../Scripts/input_data_${size}.h5 -o ${playground}/${size}x${size}_out_mpi.h5
+        
+        # parallel I/O
+        # mpirun -np $procs ./arc_proj02  -p -n $nIterations -m 1 -w $diskWriteIntensity -i ../Scripts/input_data_${size}.h5 -o ${playground}/${size}x${size}_out_mpi.h5 >> ${stdoutFile} 2>> ${stderrFile}
+    
+        # cleanup
+        rm -f ${playground}/output_dlb_X_${size}.h5
+        rm -f ${playground}/output_dlb_${size}.h5
+        done
+      done
+    done
+  done
+done

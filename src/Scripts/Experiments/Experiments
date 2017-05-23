@@ -1,0 +1,11 @@
+Experiments
+===========
+
+This folder contins experiment files.
+
+folders:
+	ideal 	- experiment with optimal delay
+	noideal - experiment with short delay, 3 detections
+	10 		- experiment with convergence
+	small 	- scaling experiment
+

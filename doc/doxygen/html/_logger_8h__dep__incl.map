@@ -1,0 +1,12 @@
+<map id="/home/samiten/DIP_release/src/Sources/DLB/Logger/Logger.h" name="/home/samiten/DIP_release/src/Sources/DLB/Logger/Logger.h">
+<area shape="rect" id="node2" href="$_dynamic_block_descriptor_8h_source.html" title="/home/samiten/DIP_release\l/src/Sources/DLB/DynamicBlockDescriptor.h" alt="" coords="12,303,299,344"/>
+<area shape="rect" id="node4" href="$dlb__heat_8cpp.html" title="Parallel heat distribution simulation model with dynamic load balancing (aka dlb) ability..." alt="" coords="517,392,701,433"/>
+<area shape="rect" id="node5" href="$_logger-testbench_8cpp_source.html" title="/home/samiten/DIP_release\l/src/Sources/DLB/Logger\l/Logger&#45;testbench.cpp" alt="" coords="759,109,943,165"/>
+<area shape="rect" id="node6" href="$_logger_8cpp.html" title="The implementation file containing a class responsible for printing out info and error messages (stdo..." alt="" coords="967,109,1151,165"/>
+<area shape="rect" id="node7" href="$_perf_measure_8h_source.html" title="/home/samiten/DIP_release\l/src/Sources/DLB/PerfMeasure.h" alt="" coords="123,117,337,158"/>
+<area shape="rect" id="node10" href="$_topology_descriptor_8h_source.html" title="/home/samiten/DIP_release\l/src/Sources/DLB/TopologyDescriptor.h" alt="" coords="423,117,677,158"/>
+<area shape="rect" id="node3" href="$_dynamic_block_descriptor_8cpp_source.html" title="/home/samiten/DIP_release\l/src/Sources/DLB/DynamicBlockDescriptor.cpp" alt="" coords="5,392,305,433"/>
+<area shape="rect" id="node8" href="$_load_balancer_8h_source.html" title="/home/samiten/DIP_release\l/src/Sources/DLB/LoadBalancer.h" alt="" coords="120,213,340,255"/>
+<area shape="rect" id="node9" href="$_load_balancer_8cpp_source.html" title="/home/samiten/DIP_release\l/src/Sources/DLB/LoadBalancer.cpp" alt="" coords="323,303,558,344"/>
+<area shape="rect" id="node11" href="$_topology_descriptor_8cpp_source.html" title="/home/samiten/DIP_release\l/src/Sources/DLB/TopologyDescriptor.cpp" alt="" coords="416,213,684,255"/>
+</map>

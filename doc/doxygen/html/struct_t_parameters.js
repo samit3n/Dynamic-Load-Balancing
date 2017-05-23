@@ -1,0 +1,27 @@
+var struct_t_parameters =
+[
+    [ "TParameters", "struct_t_parameters.html#aa3be42a9c3238d724ac211b10459149e", null ],
+    [ "IsRunParallel", "struct_t_parameters.html#a9fea944a214acdf1e7c3ef499314f75b", null ],
+    [ "IsRunSequntial", "struct_t_parameters.html#afcbdd70288ca54ac3bd876e5b3d0c701", null ],
+    [ "IsValidation", "struct_t_parameters.html#af5528055e10073617c6b19e6a8129855", null ],
+    [ "PrintParameters", "struct_t_parameters.html#a38af27b5c23d006c4ec4d9ee10208933", null ],
+    [ "airFlowRate", "struct_t_parameters.html#a16c9c389e9b8b2c23afc0fdb3a5b17cc", null ],
+    [ "balance", "struct_t_parameters.html#aa97a6227f61fb41d3624e25068f391c9", null ],
+    [ "balancePeriod", "struct_t_parameters.html#a13cabceee66c6f1e7182382d9f037721", null ],
+    [ "batchMode", "struct_t_parameters.html#a3fdb52cdd77df164531d0424b4d33faa", null ],
+    [ "debugFlag", "struct_t_parameters.html#a212cef17362efe2f45057f238faed246", null ],
+    [ "diskWriteIntensity", "struct_t_parameters.html#af2e7a0deb0c237b453ae820b5c0ae371", null ],
+    [ "edgeSize", "struct_t_parameters.html#a9104c20c776540dfb53282a1f6ebf04e", null ],
+    [ "ioEnabled", "struct_t_parameters.html#a3b13a30089f96c4ee1d4e0674af63ff0", null ],
+    [ "materialFileName", "struct_t_parameters.html#a6fe52561d0927416aa6ba3913897aea3", null ],
+    [ "mode", "struct_t_parameters.html#ab1f901e20e158d2cbf2f2f898e46b01d", null ],
+    [ "multiply", "struct_t_parameters.html#a356a2190894899b287c69942a4ad9cf2", null ],
+    [ "nIterations", "struct_t_parameters.html#add88e40bc93a63ebcc1f2019c814a94f", null ],
+    [ "objDim", "struct_t_parameters.html#adf7fafde4b3542cb36b01b9bf6fd24ea", null ],
+    [ "outputFileName", "struct_t_parameters.html#a932d011b78c9cccd568d1d1f8bc6afdd", null ],
+    [ "sequentialFlag", "struct_t_parameters.html#abb6f8a9bf656d2d1b08e0469a57687ed", null ],
+    [ "threshold", "struct_t_parameters.html#a1175cc006705ac6237f3c636279cf570", null ],
+    [ "useParallelIO", "struct_t_parameters.html#aaa00779bf73207dec17eccec446c8aea", null ],
+    [ "verificationFlag", "struct_t_parameters.html#a95605de780625bd27942ab94d8720529", null ],
+    [ "worldSize", "struct_t_parameters.html#ab0f33e0b0bac78287ea9fe6919f4d43b", null ]
+];

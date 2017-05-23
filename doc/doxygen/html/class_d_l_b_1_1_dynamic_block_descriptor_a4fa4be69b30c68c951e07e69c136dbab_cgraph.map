@@ -1,0 +1,6 @@
+<map id="DLB::DynamicBlockDescriptor::movePersistObj" name="DLB::DynamicBlockDescriptor::movePersistObj">
+<area shape="rect" id="node2" href="$class_d_l_b_1_1_tile_descriptor.html#af15e3ff077ff139b58db16eed4da6143" title="Returns tile dimensions extended by haloSize. " alt="" coords="287,5,424,47"/>
+<area shape="rect" id="node3" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a1229d307acf2c67ce5918f1dcaa510fb" title="Inversion of getGIDByCoords() " alt="" coords="255,71,456,112"/>
+<area shape="rect" id="node4" href="$class_d_l_b_1_1_tile_descriptor.html#a8a61f7a788d1e8df2d574effaaca8e0e" title="Tile position getter. " alt="" coords="287,136,424,177"/>
+<area shape="rect" id="node5" href="$namespace_d_l_b.html#a11482bd6aa2eb9c516a447ff6a1d0003" title="Maps given coordinates to array index respection halo zone size. " alt="" coords="315,202,395,229"/>
+</map>

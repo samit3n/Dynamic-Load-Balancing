@@ -1,0 +1,6 @@
+<map id="DLB::DynamicBlockDescriptor::getHaloLen" name="DLB::DynamicBlockDescriptor::getHaloLen">
+<area shape="rect" id="node2" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a868369eab0fa748594938473ff932a35" title="Returns stored MPI rank. " alt="" coords="255,39,456,80"/>
+<area shape="rect" id="node3" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#ab28edf493fc0255b41b46cb5da019f60" title="Extract data object from actual block &#160;Reads data from oldTemp array. " alt="" coords="504,5,705,47"/>
+<area shape="rect" id="node5" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a6a43a1d219bd6a322803847c34a65c8d" title="Unpack data from Zoltan to block &#160;Extracts data into allocated newblock. " alt="" coords="504,71,705,112"/>
+<area shape="rect" id="node4" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a866df28cc3bbbc07eab8f1817e1709d8" title="Initialize Zoltan related params etc. " alt="" coords="753,39,955,80"/>
+</map>

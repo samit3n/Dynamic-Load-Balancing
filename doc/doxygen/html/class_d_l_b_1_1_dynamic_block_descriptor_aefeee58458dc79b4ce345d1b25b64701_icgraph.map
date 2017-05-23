@@ -1,0 +1,9 @@
+<map id="DLB::DynamicBlockDescriptor::getAssignGIDs" name="DLB::DynamicBlockDescriptor::getAssignGIDs">
+<area shape="rect" id="node2" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#ae843fa8eb31b8cc979b319f007284f44" title="Dynamic load balance method. " alt="" coords="753,30,955,72"/>
+<area shape="rect" id="node3" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a7961ac9776f11805f9cf7a912c1c5414" title="Computes assigned objects to all tiles defined by param. " alt="" coords="255,92,456,133"/>
+<area shape="rect" id="node7" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a365ab07f24a882a6b495f85df4d15b03" title="Create list of object IDs associated with this process. " alt="" coords="255,189,456,230"/>
+<area shape="rect" id="node4" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a0a0aec521417aa0f4774edb38b23495e" title="Initial static load balance. " alt="" coords="504,26,705,68"/>
+<area shape="rect" id="node5" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a228697fe6c07142d4884e832400d6cfa" title="Compares old and new decomposition and setes appropriate migration arrays &#45; import/export GIDs etc..." alt="" coords="504,92,705,133"/>
+<area shape="rect" id="node6" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#ae58aca5449ce9573769901a8f6451679" title="Collect data to master process for serial I/O purposes. " alt="" coords="504,157,705,198"/>
+<area shape="rect" id="node8" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a866df28cc3bbbc07eab8f1817e1709d8" title="Initialize Zoltan related params etc. " alt="" coords="504,222,705,264"/>
+</map>

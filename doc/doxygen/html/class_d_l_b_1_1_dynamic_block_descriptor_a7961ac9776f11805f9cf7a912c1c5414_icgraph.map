@@ -1,0 +1,6 @@
+<map id="DLB::DynamicBlockDescriptor::getAssignedObjs" name="DLB::DynamicBlockDescriptor::getAssignedObjs">
+<area shape="rect" id="node2" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a0a0aec521417aa0f4774edb38b23495e" title="Initial static load balance. " alt="" coords="255,5,456,47"/>
+<area shape="rect" id="node3" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a228697fe6c07142d4884e832400d6cfa" title="Compares old and new decomposition and setes appropriate migration arrays &#45; import/export GIDs etc..." alt="" coords="255,71,456,112"/>
+<area shape="rect" id="node5" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#ae58aca5449ce9573769901a8f6451679" title="Collect data to master process for serial I/O purposes. " alt="" coords="255,136,456,177"/>
+<area shape="rect" id="node4" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#ae843fa8eb31b8cc979b319f007284f44" title="Dynamic load balance method. " alt="" coords="504,71,705,112"/>
+</map>

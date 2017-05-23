@@ -1,0 +1,9 @@
+<map id="DLB::DynamicBlockDescriptor::getWorldSize" name="DLB::DynamicBlockDescriptor::getWorldSize">
+<area shape="rect" id="node2" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#ae57412d249aa5a7ff2a928e6be60a03b" title="Returns BlockData pointer. " alt="" coords="255,39,456,80"/>
+<area shape="rect" id="node3" href="$class_d_l_b_1_1_dynamic_block_descriptor.html#a09f7e1643d2f29248fd35c62f55d53c7" title="Print object metadata for debug purpose. " alt="" coords="255,104,456,145"/>
+<area shape="rect" id="node4" href="$class_d_l_b_1_1_tile_descriptor.html#ade8995da02a5b3f65d0c2fb2996fb1b4" title="Tile size getter. " alt="" coords="520,5,657,47"/>
+<area shape="rect" id="node5" href="$class_d_l_b_1_1_tile_descriptor.html#a8a61f7a788d1e8df2d574effaaca8e0e" title="Tile position getter. " alt="" coords="520,71,657,112"/>
+<area shape="rect" id="node6" href="$class_d_l_b_1_1_tile_descriptor.html#af15e3ff077ff139b58db16eed4da6143" title="Returns tile dimensions extended by haloSize. " alt="" coords="520,136,657,177"/>
+<area shape="rect" id="node7" href="$class_d_l_b_1_1_topology_descriptor.html#abe4630d8c88f1542e5931f723bac60ed" title="Creates string representation of topology. " alt="" coords="504,201,673,243"/>
+<area shape="rect" id="node8" href="$namespace_d_l_b.html#a0cb32a0df5dc9696e15592df4a1f0656" title="DLB::MPI_assert" alt="" coords="721,209,844,235"/>
+</map>
