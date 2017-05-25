@@ -30,7 +30,6 @@ Repository strucutre:
  * thesis
 
  	* 	thesis pdf
- 	*	thesis sources
 
 
 
